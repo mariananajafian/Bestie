@@ -2,7 +2,7 @@
     "port": 3005,
     "node": {
     "mirror": true,
-    "timezone": "America/Los_Angeles",
+    "timezone": "Iran/Tehran",
     "version": "22"
     }
 }
